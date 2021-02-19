@@ -130,7 +130,7 @@ KM(Kuhn–Munkres) algorithm provides the connection between equality subgraphs 
 
 KM(Kuhn–Munkres) algorithm has following steps:
 
-1. Initialize feasible vertex labelling, where $$l(x) = \min (w(x, y)), (x, y) \in E $$ and $$l(y) = 0$$.
+1. Initialize feasible vertex labelling, where $$l(x) = \max (w(x, y)), (x, y) \in E $$ and $$l(y) = 0$$.
 
 2. Try to find complete(maximum) matching $M$ by using Hungarian algorithm in the equality subgraph.
 
