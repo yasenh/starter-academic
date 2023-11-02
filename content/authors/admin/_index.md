@@ -10,12 +10,12 @@ authors:
 superuser: true
 
 # Role/position
-role: Perception Systems Engineer
+role: Staff Research Engineer
 
 # Organizations/Affiliations
 organizations:
-- name: General Motors
-  url: "https://www.gm.com/"
+- name: Plus
+  url: "https://plus.ai/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include perception and sensor fusion.
